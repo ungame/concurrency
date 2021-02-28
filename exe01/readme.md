@@ -1,0 +1,2 @@
+Criptografe uma senha simples (4 ou 5 caracteres) com um algoritmo (pode ser algo simples como crypt, apenas md5 ou algo mais avançado).
+Use o hash para tentar adivinhar a senha original com força bruta. Como você usaria a simultaneidade? Você usaria algum padrão de simultaneidade específico?
